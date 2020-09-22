@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>page1.jsp</title>
 </head>
 <body>
-
+드디어 이 어려운 걸 해냈습니다!!!!
 </body>
 </html>
